@@ -11,5 +11,5 @@ The Game in Unity (KGR) is a project developed as part of the Computer Graphics 
 - In-Game Shop: Steal the treasure and use the rewards to augment your abilities, including speed, health, and weapon strength, through the in-game shop.
 
 # Technical Details:
-- Game Engine: Developed using the Unity game engine.
-- Programming Language: Programmed in C#.
+- Game Engine: Developed using the Unity game engine
+- Programming Language: Programmed in C#
